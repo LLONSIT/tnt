@@ -6,6 +6,10 @@
 
 #pragma GLOBAL_ASM("asm/us/nonmatchings/46030/func_8007FEF4.s")
 
+#pragma GLOBAL_ASM("asm/us/nonmatchings/46030/guAlign.s")
+
+#pragma GLOBAL_ASM("asm/us/nonmatchings/46030/guLookAtReflectF.s")
+
 #pragma GLOBAL_ASM("asm/us/nonmatchings/46030/func_8007FFB0.s")
 
 #pragma GLOBAL_ASM("asm/us/nonmatchings/46030/func_8007FFB8.s")
@@ -15,5 +19,7 @@
 #pragma GLOBAL_ASM("asm/us/nonmatchings/46030/func_8008015C.s")
 
 #pragma GLOBAL_ASM("asm/us/nonmatchings/46030/func_8008023C.s")
+
+#pragma GLOBAL_ASM("asm/us/nonmatchings/46030/guLookAtReflect.s")
 
 #pragma GLOBAL_ASM("asm/us/nonmatchings/46030/func_80080400.s")

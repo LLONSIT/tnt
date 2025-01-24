@@ -166,7 +166,7 @@
 
 #pragma GLOBAL_ASM("asm/us/nonmatchings/fault/Fault_Assert.s")
 
-#pragma GLOBAL_ASM("asm/us/nonmatchings/fault/func_8008369C.s")
+#pragma GLOBAL_ASM("asm/us/nonmatchings/fault/Fault_DrawText.s")
 
 #pragma GLOBAL_ASM("asm/us/nonmatchings/fault/func_800837FC.s")
 

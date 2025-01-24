@@ -373,12 +373,15 @@ build/src/linescan.o: OPTFLAGS := -O1
 build/src/3E40.o: MIPS_VERSION := -mips1
 build/src/3E40.o: OPTFLAGS := -O1
 
-
 build/src/2FAB0.o: MIPS_VERSION := -mips1
 build/src/2FAB0.o: OPTFLAGS := -O1
 
 build/src/73F0.o: MIPS_VERSION := -mips1
 build/src/73F0.o: OPTFLAGS := -O1
+
+build/src/main.o: MIPS_VERSION := -mips1
+build/src/main.o: OPTFLAGS := -O1
+
 
 
 # cc & asm-processor
